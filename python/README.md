@@ -1,6 +1,6 @@
 ## How to use
 ```shell
-
+curl https://raw.githubusercontent.com/pirsquare/eastall/master/python/install.sh | sudo bash
 ```
 
 ## Details
